@@ -1,0 +1,5 @@
+Это тестовый текстовый файл для проверки работы клиент-серверного приложения.
+Содержимое файла должно быть переслано на сервер.
+
+Test file for TCP file transfer application.
+This file will be transferred to the server and saved.
