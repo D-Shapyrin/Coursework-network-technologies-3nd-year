@@ -50,7 +50,7 @@ client.exe <filename> [username] [password]
 client.exe test.txt admin admin123
 
 # Регистрация нового пользователя (если пользователь не существует)
-client.exe document.pdf newuser password123
+client.exe test.txt newuser password123
 ```
 
 ## Функциональность
@@ -137,5 +137,6 @@ client.exe document.pdf newuser password123
 - Пользователи хранятся в памяти (в реальном приложении следует использовать базу данных)
 - IP-фильтрация настроена для локальных адресов (127.0.0.1 - 127.0.0.255)
 - Максимальный размер файла ограничен размером буфера (64 КБ)
+
 
 
